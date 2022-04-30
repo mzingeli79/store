@@ -40,14 +40,14 @@ main{
     justify-content:center;
 }
 .search-input{
-    padding: 12px;
+    padding: 10px;
     border: none;
     text-align: center;
     letter-spacing: 1px;
     width: 70%;
 }
 .search-btn{
-    padding: 12px;
+    padding: 10px;
     border: none;
     background-color: black;
     color: white;
