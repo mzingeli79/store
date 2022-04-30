@@ -85,7 +85,8 @@ main{
 }
 .description{
     color: rgb(32, 30, 30);
-    font-size: 12px;
+    font-size: 16px;
+    color: brown;
 }
 .price{
     color: rgb(27, 4, 4);
